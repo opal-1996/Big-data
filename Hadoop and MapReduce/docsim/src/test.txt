@@ -1,0 +1,14 @@
+"text1 b"	2
+"text2 d"	1
+"text1 c"	3
+"text2 e"	1
+"text1 d"	4
+"text2 f"	1
+"text2 g"	1
+"text3 a"	3
+"text3 b"	2
+"text2 a"	1
+"text3 c"	1
+"text2 b"	1
+"text1 a"	1
+"text2 c"	1
